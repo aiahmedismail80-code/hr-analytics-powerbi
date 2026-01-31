@@ -5,9 +5,9 @@
 This project analyzes HR data to provide insights into employee distribution, attrition, performance, and salary trends.
 
 ## 🛠 Tools & Technologies
-- SQL Server
+- excel
 - Power BI
-- DAX
+- DAX 
 
 ## 📊 Key Insights
 - High attrition rate in specific departments
